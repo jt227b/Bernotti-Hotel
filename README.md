@@ -10,8 +10,14 @@ Bernotti Hotel is a website coded only using the basics of HTML and CSS with no 
 
 Click on our website to visit our hotel in Gran Roque, Venezuela.
 
-```
 https://jt227b.github.io/Bernotti-Hotel/
+
+### Menu
+
+```
+Home
+About
+Contact
 ```
 
 ### Coding Languages or Styles
@@ -21,6 +27,10 @@ This Hotel Project was built using only:
 ```
 HTML, CSS
 ```
+
+## Screenshots
+
+
 
 ## Acknowledgments
 

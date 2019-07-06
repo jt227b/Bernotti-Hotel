@@ -36,9 +36,11 @@ Landing Page:
 ![index](https://user-images.githubusercontent.com/46248532/60761716-b69bd700-a013-11e9-9385-230eb864e416.png)
 
 About Page:
+
 ![about](https://user-images.githubusercontent.com/46248532/60761721-c3b8c600-a013-11e9-8f32-bde84fec0341.png)
 
 Contact Page:
+
 ![contact](https://user-images.githubusercontent.com/46248532/60761723-cadfd400-a013-11e9-8cf7-c27efd24c847.png)
 
 
